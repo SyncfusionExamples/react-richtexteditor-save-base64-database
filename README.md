@@ -17,7 +17,7 @@ Before running the project, ensure you have the following installed on your syst
    Clone the project to your local machine:
 
    ```bash
-   git clone Get-Content-From-RTE-Update-Content-To-Server
+   git clone react-richtexteditor-save-base64-database
 
 
 2. **Run the Backend Server**
